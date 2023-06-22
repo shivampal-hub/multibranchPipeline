@@ -18,11 +18,11 @@ pipeline {
     }
     stage('cat README') {
 
-      when {
+      /*when {
 
         branch "feature-*"
 
-      }
+      }*/
 
       steps {
 
