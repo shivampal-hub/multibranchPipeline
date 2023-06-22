@@ -20,7 +20,7 @@ pipeline {
 
       when {
 
-        branch "fix-*"
+        branch "feature-*"
 
       }
 
